@@ -200,7 +200,6 @@ h2{
     #element:hover{
       border-radius:10rem;
       box-shadow:gray 0px 0px 50px;
-      scale: 10px;
     }
 
 footer{
